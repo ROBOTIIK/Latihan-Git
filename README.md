@@ -1,2 +1,2 @@
 # Latihan-Git
-## Randy Christian Saputra - 195150300111009
+## Dani Mahardika Suroso - 205150301111012
